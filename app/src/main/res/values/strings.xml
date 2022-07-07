@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="user_pic">User pic</string>
+    <string name="user_name">Kirstyn Golston</string>
+    <string name="user_phone">+62 (923) 164–8276</string>
+    <string name="user_email">kgolston0@census.gov</string>
+    <string name="user_address">94395 Old Gate Lane</string>
+</resources>
